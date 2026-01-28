@@ -1,0 +1,5 @@
+# AWS Governance Guard - Requirements
+# Python dependencies for cost monitoring and EC2 management
+
+boto3>=1.34.0
+python-dateutil>=2.8.2
