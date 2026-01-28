@@ -9,6 +9,12 @@ This project showcases practical AWS automation skills through two key monitorin
 1. **Cost Guard** - Monitors AWS spending and alerts when budgets are exceeded
 2. **CPU Monitor** - Identifies EC2 instances with high CPU utilization for proactive troubleshooting
 
+## 🏗️ Architecture
+
+![AWS Governance Guard Architecture](docs/architecture.png)
+
+*The system uses EventBridge for scheduling, Lambda for core logic execution, and SNS for active alerting.*
+
 ## 🎯 Purpose
 
 Designed as a portfolio project to demonstrate:
