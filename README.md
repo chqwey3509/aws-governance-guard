@@ -62,7 +62,7 @@ aws-governance-guard/
 ### Prerequisites
 
 - Python 3.8+
-- AWS Account with appropriate IAM permissions
+- IAM User/Role with 'ce:GetCostAndUsage' and 'ec2:DescribeInstances' permissions
 - AWS CLI configured with credentials
 
 ### Setup
