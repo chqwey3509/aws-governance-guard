@@ -276,7 +276,7 @@ This project is open source and available for portfolio demonstration purposes.
 
 **Chih Cheng Hsu**  
 DevOps Engineer | AWS Enthusiast  
-[LinkedIn](https://linkedin.com/in/chih-cheng-hsu-6a6a4a392) | [GitHub](https://github.com/chqwey3509)
+[LinkedIn](https://www.linkedin.com/in/xuviig) | [GitHub](https://github.com/chqwey3509)
 
 ---
 
